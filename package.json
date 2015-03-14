@@ -1,0 +1,29 @@
+{
+  "name": "gulp-specificity-graph",
+  "version": "0.0.1",
+  "description": "Gulp plugin to generate specificity graph.",
+  "keywords": [
+    "gulp",
+    "plugin",
+    "specificity-graph"
+  ],
+  "homepage": "http://github.com/ishotfirst/gulp-specificity-graph",
+  "bug": "http://github.com/ishotfirst/gulp-specificity-graph/issues",
+  "author": "Jason LeMoine <ishotfirst@users.noreply.github.com> (http://ishotfirst.github.io/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ishotfirst/gulp-specificity-graph.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.4",
+    "gutil": "^1.6.4",
+    "opn": "^1.0.1",
+    "path": "^0.11.14",
+    "specificity-graph": "^0.1.2",
+    "through2": "^0.6.3"
+  }
+}
